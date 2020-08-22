@@ -122,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cycling-factory"
+    }
+  },
+  "defaultProject": "cycling-factory",
+  "cli": {
+    "analytics": false
+  }
 }
